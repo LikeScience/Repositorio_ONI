@@ -1,0 +1,18 @@
+# Repositório ONI
+
+Aqui encontram-se soluções teóricas e código de problemas de edições anteriores das Olimpíadas Nacionais de Informática.
+
+## 2018
+| Problema          | Solução Teórica | C++?   | Java? | Pascal ópicos                      ----------------|--------|-------|------------------------------|---|        |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
+|                   |                 |        |       |                              |   |
