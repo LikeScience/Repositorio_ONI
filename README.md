@@ -21,12 +21,12 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
 |[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html)||||||
-|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probB.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2019/qualificacao/prob_b.html)||||||
-|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probC.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2019/qualificacao/prob_c.html)||||||
-|[Qualificação D](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probD.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2019/qualificacao/prob_d.html)||||||
-|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2018/final/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2019/final/prob_a.html)||||||
-|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2018/final/probB.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2019/final/prob_b.html)||||||
-|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2018/final/probC.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2019/final/prob_c.html)||||||
+|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probB.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_b.html)||||||
+|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probC.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_c.html)||||||
+|[Qualificação D](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probD.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_d.html)||||||
+|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2018/final/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/final/prob_a.html)||||||
+|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2018/final/probB.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/final/prob_b.html)||||||
+|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2018/final/probC.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/final/prob_c.html)||||||
 |[Seleção A](http://www.dcc.fc.up.pt/oni/problemas/2018/selecao/probA.html)|||||||
 |[Seleção B](http://www.dcc.fc.up.pt/oni/problemas/2018/selecao/probB.html)|||||||
 |[Seleção C](http://www.dcc.fc.up.pt/oni/problemas/2018/selecao/probC.html)|||||||
