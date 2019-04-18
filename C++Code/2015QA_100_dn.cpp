@@ -1,12 +1,12 @@
 /*
 (david n)
 
-Para resolver este problema basta saber usar a função sort que está no algorithm:
-    - Para cada concorrente guardamos o seu nome e a sua pontuação num struct.
+Para resolver este problema basta saber usar a funÃ§Ã£o sort que estÃ¡ no algorithm:
+    - Para cada concorrente guardamos o seu nome e a sua pontuaÃ§Ã£o num struct.
     - Guardamos todos os concorrentes numa lista de N elementos
-    - Ordenamos a lista usando sort, de acordo com uma função de comparação costumizada para a struct dos concorrentes:
-      essa função ordena os concorrentes por número de pontos, caso o número de pontos seja diferente. Caso contrário ordena por ordem alfabética.
-    - Agora só falta imprimir a lista, que já está ordenada
+    - Ordenamos a lista usando sort, de acordo com uma funÃ§Ã£o de comparaÃ§Ã£o costumizada para a struct dos concorrentes:
+      essa funÃ§Ã£o ordena os concorrentes por nÃºmero de pontos, caso o nÃºmero de pontos seja diferente. Caso contrÃ¡rio ordena por ordem alfabÃ©tica.
+    - Agora sÃ³ falta imprimir a lista, que jÃ¡ estÃ¡ ordenada
 
     Complexidade: O(NP+Nlog N)
 */
