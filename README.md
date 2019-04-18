@@ -50,7 +50,7 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2016
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html)|||||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2016/qualificacao/prob_a.html)||||||
 |[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probB.html)|||||||
 |[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probC.html)|||||||
 |[Final A](http://www.dcc.fc.up.pt/oni/problemas/2016/final/probA.html)|||||||
