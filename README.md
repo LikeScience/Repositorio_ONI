@@ -50,7 +50,7 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2016
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html)||[65](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2016QA_65_nt.cpp) \n [100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2016QA_100_nt.cpp)|||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html)||[65](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2016QA_65_nt.cpp) [100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2016QA_100_nt.cpp)|||||
 |[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probB.html)|||||||
 |[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probC.html)|||||||
 |[Final A](http://www.dcc.fc.up.pt/oni/problemas/2016/final/probA.html)|||||||
