@@ -20,7 +20,7 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2018
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html)||||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html)|[100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2018QA_100_jr.cpp)|||||
 |[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probB.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_b.html)||||||
 |[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probC.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_c.html)||||||
 |[Qualificação D](http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probD.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_d.html)||||||
@@ -50,7 +50,7 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2016
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2016/qualificacao/prob_a.html)||||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html)||[65](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2016QA_65_nt.cpp) \n [100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2016QA_100_nt.cpp)|||||
 |[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probB.html)|||||||
 |[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probC.html)|||||||
 |[Final A](http://www.dcc.fc.up.pt/oni/problemas/2016/final/probA.html)|||||||
@@ -64,8 +64,8 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2015
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probA.html)|||||||
-|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probB.html)|||||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probA.html)||[100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2015QA_100_dn.cpp)|||||
+|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probB.html)||[100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2015QB_100_dn.cpp)|||||
 |[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probC.html)|||||||
 |[Qualificação D](http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probD.html)|||||||
 |[Final A](http://www.dcc.fc.up.pt/oni/problemas/2015/final/probA.html)|||||||
@@ -79,9 +79,9 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2014
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/A.html)||||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/A.html)|[72](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2014QA_72_nt.cpp)|||||
 |[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/B.html)||||||
-|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/C.html)||||||
+|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/C.html)|[100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2014QC_100_jr.cpp)|||||
 |[Final A](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/final/discussao/index.html)||||||
 |[Final B](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/final/discussao/index.html)||||||
 |[Final C](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/final/discussao/index.html)||||||
@@ -89,9 +89,9 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2013
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/sola.html)||||||
+[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/sola.html)|[50](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2013QA_50_jr.cpp)|||||
 |[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solb.html)||||||
-|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solc.html)||||||
+|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solc.html)|[100](https://github.com/LikeScience/Repositorio_ONI/blob/master/C%2B%2BCode/2013Q_100_jr.cpp)|||||
 |[Final A](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/A.html)||||||
 |[Final B](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/N.html)||||||
 |[Final C](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/C.html)||||||
