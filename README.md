@@ -79,22 +79,22 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2014
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probA.html)|||||||
-|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probB.html)|||||||
-|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probC.html)|||||||
-|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probA.html)|||||||
-|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probB.html)|||||||
-|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probC.html)|||||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/A.html)||||||
+|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/B.html)||||||
+|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/C.html)||||||
+|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/final/discussao/index.html)||||||
+|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/final/discussao/index.html)||||||
+|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2014/final/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2014/final/discussao/index.html)||||||
 
 ## 2013
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probA.html)|||||||
-|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html)|||||||
-|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probC.html)|||||||
-|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probA.html)|||||||
-|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probB.html)|||||||
-|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probC.html)|||||||
+[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/sola.html)||||||
+|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solb.html)||||||
+|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solc.html)||||||
+|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/A.html)||||||
+|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/N.html)||||||
+|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/C.html)||||||
 
 ## 2012
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
@@ -102,6 +102,6 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 |[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2012/qualificacao/probA.html)|||||||
 |[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2012/qualificacao/probB.html)|||||||
 |[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2012/qualificacao/probC.html)|||||||
-|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probA.html)|||||||
-|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probB.html)|||||||
-|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probC.html)|||||||
+|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probA.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/sola.html)||||||
+|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probB.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/solb.html)||||||
+|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2013/final/probC.html)|[Oficial](http://www.dcc.fc.up.pt/oni/problemas/2013/final/discussao/solc.html)||||||
