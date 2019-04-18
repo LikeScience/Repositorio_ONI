@@ -35,13 +35,13 @@ Aqui encontram-se soluções teóricas e código de problemas de edições anter
 ## 2017
 | Problema | Solução Teórica | C++ | Java | C | Pascal | Temas |
 |----------|-----------------|-----|------|---|--------|-------|
-|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probA.html)|||||||
-|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probB.html)|||||||
-|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probC.html)|||||||
-|[Qualificação D](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probD.html)|||||||
-|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2017/final/probA.html)|||||||
-|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2017/final/probB.html)|||||||
-|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2017/final/probC.html)|||||||
+|[Qualificação A](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2017/qualificacao/prob_a.html)||||||
+|[Qualificação B](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probB.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2017/qualificacao/prob_b.html)||||||
+|[Qualificação C](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probC.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2017/qualificacao/prob_c.html)||||||
+|[Qualificação D](http://www.dcc.fc.up.pt/oni/problemas/2017/qualificacao/probD.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2017/qualificacao/prob_d.html)||||||
+|[Final A](http://www.dcc.fc.up.pt/oni/problemas/2017/final/probA.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2017/final/prob_a.html)||||||
+|[Final B](http://www.dcc.fc.up.pt/oni/problemas/2017/final/probB.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2017/final/prob_b.html)||||||
+|[Final C](http://www.dcc.fc.up.pt/oni/problemas/2017/final/probC.html)|[Oficial](http://oni.dcc.fc.up.pt/loop/solucoes/2017/final/prob_c.html)||||||
 |[Seleção A](http://www.dcc.fc.up.pt/oni/problemas/2017/selecao/probA.html)|||||||
 |[Seleção B](http://www.dcc.fc.up.pt/oni/problemas/2017/selecao/probB.html)|||||||
 |[Seleção C](http://www.dcc.fc.up.pt/oni/problemas/2017/selecao/probC.html)|||||||
