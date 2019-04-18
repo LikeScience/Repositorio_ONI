@@ -1,6 +1,6 @@
 /*
 	
-(Nuno .Teixeira)
+(Nuno Teixeira)
 
 Adiciona/remove os elementos de um vector à medida que é lido o input. Quando é lida a pergunta ordena-se o vector antes de responder. 
 
