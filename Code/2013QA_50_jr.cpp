@@ -4,7 +4,7 @@ fase: qualificação
 problema: A
 pontos: 50
 autor: João Rico
-linguafem: c++
+linguagem: c++
 tópicos: pesquisa completa
 
 Pesquisa completa simples.
