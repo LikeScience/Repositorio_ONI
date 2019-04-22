@@ -4,7 +4,7 @@ fase: qualificação
 problema: C
 pontos: 100
 autor: João Rico
-linguafem: c++
+linguagem: c++
 tópicos: programação dinâmica
 
 
