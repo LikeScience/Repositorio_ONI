@@ -1,3 +1,13 @@
+/*
+ano: 2019
+fase: qualificação
+problema: B
+pontos: 100
+autor: Nuno Teieira
+linguafem: c++
+tópicos: algoritmo de Rabin-Karp
+*/
+
 #include <iostream>
 #include <stack>
 #include <algorithm>
@@ -7,8 +17,6 @@
 using namespace std;
 
 /*
-	
-(Nuno Teixeira)
 
 Sendo T o comprimento de cada cadeia, existem T^2 sequências por cadeia.
 Sendo S o comprimento de cada sequência, verificar se a sequência existe noutra cadeia demora T*S
