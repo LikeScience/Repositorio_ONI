@@ -17,7 +17,6 @@ tópicos:
 using namespace std;
 
 /*
-(Nuno Teixeira)
 * Percorrer a linha de 0 até n, cada vez que encontramos um homem verificar quantas mulheres existem nas últimas k posições
 * O(NK)
 */
