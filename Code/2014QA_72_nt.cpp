@@ -4,7 +4,7 @@ fase: qualificação
 problema: A
 pontos: 72
 autor: Nuno Teieira
-linguafem: c++
+linguagem: c++
 tópicos: 
 
 Adiciona/remove os elementos de um vector à medida que é lido o input. Quando é lida a pergunta ordena-se o vector antes de responder. 
