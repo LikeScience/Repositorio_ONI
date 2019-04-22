@@ -1,3 +1,13 @@
+/*
+ano: 2016
+fase: qualificação
+problema: A
+pontos: 100
+autor: Nuno Teixeira
+linguagem: c++
+tópicos: 
+*/
+
 #include <iostream>
 #include <stack>
 #include <algorithm>
