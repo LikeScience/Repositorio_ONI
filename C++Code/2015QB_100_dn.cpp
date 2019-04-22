@@ -1,7 +1,7 @@
 /*
 ano: 2015
 fase: qualificação
-problema: G
+problema: B
 pontos: 100
 autor: David Nassauer
 linguagem: c++
