@@ -1,5 +1,13 @@
 /*
-(joao rico)
+ano: 2013
+fase: qualificação
+problema: C
+pontos: 100
+autor: João Rico
+linguafem: c++
+tópicos: programação dinâmica
+
+
 
 A solucao de pesquisa completa e demasiado lenta, de complexidade exponencial O(2**n)
 
