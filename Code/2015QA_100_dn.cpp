@@ -1,5 +1,11 @@
 /*
-(david n)
+ano: 2015
+fase: qualificação
+problema: A
+pontos: 100
+autor: David Nassauer
+linguagem: c++
+tópicos: função sort
 
 Para resolver este problema basta saber usar a função sort que está no algorithm:
     - Para cada concorrente guardamos o seu nome e a sua pontuação num struct.
