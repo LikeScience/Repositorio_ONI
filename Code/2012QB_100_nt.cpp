@@ -1,5 +1,5 @@
 /*
-ano: 2019
+ano: 2012
 fase: qualificação
 problema: B
 pontos: 100
