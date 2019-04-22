@@ -1,5 +1,11 @@
 /*
-(joao rico)
+ano: 2014
+fase: qualificação
+problema: C
+pontos: 100
+autor: João Rico
+linguagem: c++
+tópicos: programação dinâmica
 
 Programacao dinamica. 
 (segundo as solucoes oficiais, com a mesma notacao em geral)
