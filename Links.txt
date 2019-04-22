@@ -1,49 +1,49 @@
 2012QB_100_nt.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2012/qualificacao/probB.html
 
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2012QB_100_nt.cpp
 
 2013QA_50_jr.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html
 http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/sola.html
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2013QA_50_jr.cpp
 
 2013QC_100_jr.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probC.html
 http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solc.html
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2013QC_100_jr.cpp
 
 2014QA_72_nt.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probA.html
 http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/A.html
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2014QA_72_nt.cpp
 
 2014QC_100_jr.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probC.html
 http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/C.html
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2014QC_100_jr.cpp
 
 2015QA_100_dn.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probA.html
 
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2015QA_100_dn.cpp
 
 2015QB_100_dn.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probB.html
 
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2015QB_100_dn.cpp
 
 2016QA_100_nt.cp
 http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html
 
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2016QA_100_nt.cpp
 
 2016QA_65_nt.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html
 
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2016QA_65_nt.cpp
 
 2018QA_100_jr.cpp
 http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probA.html
 http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html
-
+https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/2018QA_100_jr.cpp
