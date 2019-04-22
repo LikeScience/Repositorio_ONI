@@ -1,49 +1,49 @@
 2012QB_100_nt.cpp
-
+http://www.dcc.fc.up.pt/oni/problemas/2012/qualificacao/probB.html
 
 
 
 2013QA_50_jr.cpp
-
-
+http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probB.html
+http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/sola.html
 
 
 2013QC_100_jr.cpp
-
-
+http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probC.html
+http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solc.html
 
 
 2014QA_72_nt.cpp
-
-
+http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probA.html
+http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/A.html
 
 
 2014QC_100_jr.cpp
-
-
+http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probC.html
+http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/C.html
 
 
 2015QA_100_dn.cpp
-
+http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probA.html
 
 
 
 2015QB_100_dn.cpp
+http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probB.html
 
 
 
-
-2016QA_100_nt.cpp
-
+2016QA_100_nt.cp
+http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html
 
 
 
 2016QA_65_nt.cpp
-
+http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html
 
 
 
 2018QA_100_jr.cpp
-
-
+http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probA.html
+http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html
 
