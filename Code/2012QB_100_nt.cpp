@@ -4,7 +4,7 @@ fase: qualificação
 problema: B
 pontos: 100
 autor: Nuno Teieira
-linguafem: c++
+linguagem: c++
 tópicos: algoritmo de Rabin-Karp
 */
 
