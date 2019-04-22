@@ -6,7 +6,7 @@ pontos: 100
 autor: João Rico
 linguagem: c++
 tópicos: 
-*/
+
 
 Explicacao mais detalhada no loop:
 http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html
