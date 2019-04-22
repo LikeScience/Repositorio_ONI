@@ -1,5 +1,11 @@
 /*
-(joao rico)
+ano: 2013
+fase: qualificação
+problema: A
+pontos: 50
+autor: João Rico
+linguafem: c++
+tópicos: pesquisa completa
 
 Pesquisa completa simples.
 
