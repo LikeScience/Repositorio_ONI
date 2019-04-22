@@ -1,5 +1,11 @@
 /*
-(david n)
+ano: 2015
+fase: qualificação
+problema: G
+pontos: 100
+autor: David Nassauer
+linguagem: c++
+tópicos:
 
 Para saber se um par de partículas é estável ou não, basta-nos conhecer o valor máximo e mínimo das partículas
 que estão entre eles. Ex:
