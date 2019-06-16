@@ -1,5 +1,5 @@
 CODE_FOLDER = "Code/"
-OUTPUT_FILE = "README_test.md"
+OUTPUT_FILE = "README.md"
 
 import os
 
