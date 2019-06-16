@@ -1,11 +1,13 @@
 /*
 ano: 2012
-fase: qualificação
+fase: qualificacao
 problema: B
 pontos: 100
-autor: Nuno Teieira
+autor: Nuno Teixeira
 linguagem: c++
-tópicos: algoritmo de Rabin-Karp
+topicos: algoritmo de Rabin-Karp
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2012/qualificacao/probB.html
+url da solucao: 
 */
 
 #include <iostream>
