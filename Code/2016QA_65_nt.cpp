@@ -1,11 +1,13 @@
 /*
 ano: 2016
-fase: qualificação
+fase: qualificacao
 problema: A
 pontos: 65
 autor: Nuno Teixeira
 linguagem: c++
-tópicos: 
+topicos: 
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2016/qualificacao/probA.html
+url da solucao: 
 */
 
 #include <iostream>

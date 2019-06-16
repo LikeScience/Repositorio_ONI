@@ -1,11 +1,13 @@
 /*
 ano: 2015
-fase: qualificação
+fase: qualificacao
 problema: A
 pontos: 100
 autor: David Nassauer
 linguagem: c++
-tópicos: função sort
+topicos: funcao sort
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probA.html
+url da solucao: 
 
 Para resolver este problema basta saber usar a função sort que está no algorithm:
     - Para cada concorrente guardamos o seu nome e a sua pontuação num struct.

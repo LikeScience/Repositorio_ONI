@@ -1,11 +1,13 @@
 /*
 ano: 2013
-fase: qualificação
+fase: qualificacao
 problema: C
 pontos: 100
-autor: João Rico
+autor: Joao Rico
 linguagem: c++
-tópicos: programação dinâmica
+topicos: programacao dinamica
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probC.html
+url da solucao: http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/solc.html
 
 
 

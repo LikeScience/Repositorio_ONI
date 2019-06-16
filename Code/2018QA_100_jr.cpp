@@ -1,12 +1,13 @@
 /*
 ano: 2018
-fase: qualificação
+fase: qualificacao
 problema: A
 pontos: 100
-autor: João Rico
+autor: Joao Rico
 linguagem: c++
-tópicos: 
-
+topicos: 
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2018/qualificacao/probA.html
+url da solucao: http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html
 
 Explicacao mais detalhada no loop:
 http://oni.dcc.fc.up.pt/loop/solucoes/2018/qualificacao/prob_a.html

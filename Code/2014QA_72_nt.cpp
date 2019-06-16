@@ -1,11 +1,13 @@
 /*
 ano: 2014
-fase: qualificação
+fase: qualificacao
 problema: A
 pontos: 72
-autor: Nuno Teieira
+autor: Nuno Teixeira
 linguagem: c++
-tópicos: 
+topicos: 
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/probA.html
+url da solucao: http://www.dcc.fc.up.pt/oni/problemas/2014/qualificacao/discussao/A.html
 
 Adiciona/remove os elementos de um vector à medida que é lido o input. Quando é lida a pergunta ordena-se o vector antes de responder. 
 

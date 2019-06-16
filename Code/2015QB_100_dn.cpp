@@ -1,11 +1,13 @@
 /*
 ano: 2015
-fase: qualificação
+fase: qualificacao
 problema: B
 pontos: 100
 autor: David Nassauer
 linguagem: c++
-tópicos:
+topicos:
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2015/qualificacao/probB.html
+url da solucao: 
 
 Para saber se um par de partículas é estável ou não, basta-nos conhecer o valor máximo e mínimo das partículas
 que estão entre eles. Ex:

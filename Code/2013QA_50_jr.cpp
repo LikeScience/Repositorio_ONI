@@ -1,11 +1,13 @@
 /*
 ano: 2013
-fase: qualificação
+fase: qualificacao
 problema: A
 pontos: 50
-autor: João Rico
+autor: Joao Rico
 linguagem: c++
-tópicos: pesquisa completa
+topicos: pesquisa completa
+url do problema: http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/probA.html
+url da solucao: http://www.dcc.fc.up.pt/oni/problemas/2013/qualificacao/discussao/sola.html
 
 Pesquisa completa simples.
 
