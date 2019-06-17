@@ -4,6 +4,7 @@ CODE_URL = "https://github.com/LikeScience/Repositorio_ONI/blob/master/Code/"
 TEMPLATE = "TEMPLATE.txt"
 
 import os
+import operator
 
 def sortf(a, b):
     for i in range(6):
@@ -29,6 +30,8 @@ for file in files:
         else:
             attributes.append("[Oficial](" + attributes[8] + ")")
         values.append(attributes)
+        
+values.sort(key = operator.itemgetter(0, 1, 2, 3, 4, 5), reverse = 1)
         
 tempLines = open(TEMPLATE, encoding = 'utf-8').read().splitlines()
 
